@@ -57,7 +57,7 @@ html {
   /* add your css below this line */
   
   .hero-background {
-    background: url("https://images.pexels.com/photos/234133/pexels-photo-234133.jpeg") no-repeat fixed center;
+    background: url("https://cdn.pixabay.com/photo/2020/10/09/20/09/library-5641389_960_720.jpg") no-repeat fixed center;
     background-size: cover;
   }
   
