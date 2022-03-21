@@ -112,6 +112,11 @@ html {
     line-height: 60px;
     margin: 0;
   }
+
+  h3 {
+    font-size: 20px;
+    color:#fff;
+  }
   
   .number {
     width: 50px;
