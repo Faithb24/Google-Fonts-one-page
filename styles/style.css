@@ -148,8 +148,9 @@ html {
   
   footer {
     text-align: center;
+    color: #fff;
     padding: 20px 0;
-    background-color: rgba(245, 147, 68, 0.3);
+    background-color: rgb(3, 3, 3);
   }
   
    
